@@ -1,6 +1,6 @@
 #!/bin/sh -e
 
-nginx=nginx-1.9.12
+nginx=nginx-1.9.13
 pcre=pcre-8.38
 zlib=zlib-1.2.8
 openssl=openssl-1.0.2g
