@@ -1,4 +1,7 @@
 #!/usr/bin/env bash
+# This one is mainly in compliance with the official Ubuntu one. 
+# Under some circumstances, you might want the official Nginx one: 
+# http://nginx.org/en/linux_packages.html#arguments 
 
 nginx_rtmp_module=$(pwd)/nginx-rtmp-module
 pcre=$(pwd)/pcre
