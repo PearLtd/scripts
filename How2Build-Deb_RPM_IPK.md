@@ -11,6 +11,7 @@ This document is a memo for building our software package for Ubuntu, CentOS, Op
 ## rpm
 + https://www.ibm.com/developerworks/cn/linux/l-rpm1/
 + http://fedoraproject.org/wiki/How_to_create_an_RPM_package
++ https://fedoraproject.org/wiki/How_to_create_an_RPM_package/zh-cn
 + http://www.heifeie.com/linux/4456.html
 
 ## ipk
