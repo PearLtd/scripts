@@ -68,6 +68,9 @@ make clean
 #--with-http_xslt_module \
 #--with-mail \
 #--with-mail_ssl_module
+# Totally static build, add: 
+# --with-cc-opt="-static -static-libgcc" 
+# --with-ld-opt="-static" 
 make
 cd ../
 
