@@ -1,4 +1,6 @@
-# How to build deb, rpm, ipk packages: 
+# How to build deb, rpm, ipk packages. 
+
+This document is a memo for building our software package for Ubuntu, CentOS, OpenWRT, etc. 
 
 ## deb
 + http://forum.ubuntu.org.cn/viewtopic.php?f=56&t=454338
