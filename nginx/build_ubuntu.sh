@@ -61,16 +61,16 @@ make clean
 --with-http_dav_module \
 --with-http_v2_module \
 --with-http_sub_module \
---with-http_mp4_module 
-#--with-http_geoip_module \
-#--with-http_gzip_static_module \
-#--with-http_image_filter_module \
-#--with-http_xslt_module \
-#--with-mail \
-#--with-mail_ssl_module
+--with-http_geoip_module \
+--with-http_gzip_static_module \
+--with-http_image_filter_module \
+--with-http_xslt_module \
+--with-mail \
+--with-mail_ssl_module \
+--with-http_mp4_module
+make 
+cd ../
 # Totally static build, add: 
 # --with-cc-opt="-static -static-libgcc" 
-# --with-ld-opt="-static" 
-make
-cd ../
-
+# --with-ld-opt="-static"
+ 
